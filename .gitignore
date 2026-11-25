@@ -7,6 +7,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Node / frontend build output
+# Node / frontend build output (website/frontend/dist/ IS committed -- Render serves it
+# directly from the backend, no Node needed on the host)
 node_modules/
-dist/
