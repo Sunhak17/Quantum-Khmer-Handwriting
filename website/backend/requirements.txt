@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pennylane
+torch
+pillow
+numpy
+opencv-python-headless
+python-dotenv
+
+# tests (optional, not needed to run the server)
+pytest
+httpx

@@ -1,0 +1,4 @@
+qubits,pca_vqc_test_accuracy,cnn_vqc_test_accuracy
+4,0.4896,0.8854
+6,0.4596,0.899
+8,0.5404,0.9242

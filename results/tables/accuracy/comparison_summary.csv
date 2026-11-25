@@ -1,0 +1,8 @@
+model_type,model,val_accuracy,test_accuracy
+classical,4q,0.9635,0.9583
+classical,6q,0.9192,0.9444
+classical,8q,0.9419,0.9444
+classical,baseline,0.9495,0.9318
+quantum,vqc_4q,0.9323,0.8854
+quantum,vqc_6q,0.9091,0.899
+quantum,vqc_8q,0.9091,0.9242

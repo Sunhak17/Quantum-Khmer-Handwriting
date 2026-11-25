@@ -1,0 +1,4 @@
+qubits,quantum_accuracy,classical_cnn_accuracy,quantum_macro_f1,classical_cnn_macro_f1
+4,0.8854,0.9427,0.8851,0.763
+6,0.899,0.9318,0.8973,0.9306
+8,0.9242,0.9318,0.9231,0.9306

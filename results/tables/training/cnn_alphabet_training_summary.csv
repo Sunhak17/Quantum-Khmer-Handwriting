@@ -1,0 +1,5 @@
+model,n_features,n_classes,best_epoch,best_val_accuracy,test_accuracy
+4q,4,16,48,0.9635,0.9583
+6q,6,33,52,0.9192,0.9444
+8q,8,33,34,0.9419,0.9444
+baseline,64,33,38,0.9495,0.9318

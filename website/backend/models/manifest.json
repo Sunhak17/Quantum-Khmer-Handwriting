@@ -1,0 +1,25 @@
+{
+  "exported_at": "2026-11-24T05:53:43.854119+00:00",
+  "qubit_counts": {
+    "4": {
+      "n_classes": 16,
+      "val_accuracy": 0.9323,
+      "test_accuracy": 0.8854
+    },
+    "6": {
+      "n_classes": 33,
+      "val_accuracy": 0.9091,
+      "test_accuracy": 0.899
+    },
+    "8": {
+      "n_classes": 33,
+      "val_accuracy": 0.9091,
+      "test_accuracy": 0.9242
+    }
+  },
+  "classical_baseline": {
+    "n_classes": 33,
+    "val_accuracy": 0.9495,
+    "test_accuracy": 0.9318
+  }
+}

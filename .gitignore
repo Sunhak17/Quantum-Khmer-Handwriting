@@ -1,0 +1,12 @@
+# Datasets and research-tree trained models 
+/data/
+/models/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node / frontend build output
+node_modules/
+dist/
