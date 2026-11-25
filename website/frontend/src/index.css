@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Khmer UI";
+  src: local("Khmer OS"), local("Khmer OS System"), local("Leelawadee UI");
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+}
+
+.khmer-text {
+  font-family: "Khmer UI", "Khmer OS", "Leelawadee UI", system-ui, sans-serif;
+}

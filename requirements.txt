@@ -1,0 +1,13 @@
+jupyter
+numpy
+pandas
+pyarrow
+pillow
+matplotlib
+scikit-learn
+torch
+pennylane
+opencv-python-headless
+qiskit
+qiskit-aer
+pylatexenc

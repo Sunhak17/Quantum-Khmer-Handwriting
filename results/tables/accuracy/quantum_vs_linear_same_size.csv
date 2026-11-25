@@ -1,0 +1,4 @@
+qubits,quantum_circuit_accuracy,classical_linear_same_input_accuracy,quantum_advantage
+4,0.8854,0.9583,-0.0729
+6,0.899,0.9318,-0.0328
+8,0.9242,0.9444,-0.0202

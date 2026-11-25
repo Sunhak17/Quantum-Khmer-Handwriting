@@ -1,0 +1,4 @@
+qubits,accuracy,correct_avg_confidence,wrong_avg_confidence,calibration_gap
+4,0.8854,0.9636,0.8043,0.1593
+6,0.899,0.962,0.749,0.213
+8,0.9242,0.9547,0.7915,0.1632
